@@ -1,6 +1,3 @@
-YouTube: v20.45.36
-YT Music: v8.44.54
+InstallX Revived: v26.03.4d16c34
   
-Patches: MorpheApp/patches-1.23.0-dev.2.mpp  
-
-[Changelog](https://github.com/MorpheApp/morphe-patches/releases/tag/v1.23.0-dev.2)
+[Changelog](https://github.com/wxxsfxyzm/InstallerX-Revived/releases/tag/26.03.4d16c34)
