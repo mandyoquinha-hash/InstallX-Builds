@@ -1,3 +1,3 @@
-InstallX Revived: v26.05.9f79170
+InstallX Revived: v26.05.106452d
   
-[Changelog](https://github.com/wxxsfxyzm/InstallerX-Revived/releases/tag/2605979170)
+[Changelog](https://github.com/wxxsfxyzm/InstallerX-Revived/releases/tag/2605106452)
