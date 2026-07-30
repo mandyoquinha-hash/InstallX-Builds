@@ -6,4 +6,4 @@ Looking for a better app installer? Try InstallerX!
 
 Many customized Chinese ROMs come with subpar default installers. You can replace them with InstallerX Revived.
 
-Get the [latest InstallerX Revived release](https://github.com/mandyoquinha-hash/InstallX-Builds/releases/tag/1489).
+Get the [latest InstallerX Revived release](https://github.com/mandyoquinha-hash/InstallX-Builds/releases/tag/1491).
